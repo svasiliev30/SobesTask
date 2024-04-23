@@ -1,1 +1,3 @@
-testController\CalculationControllerTest.class
+org\example\testController\CalculationControllerTest.class
+org\example\check\CheckImplTest.class
+org\example\service\CalculationFactorialTest.class
